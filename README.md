@@ -1,4 +1,4 @@
-# osTicket All-In-One Guide
+# osTicket All-In-One Guide - Installation, Post Installation Configuration, and Ticket Lifecycle Examples
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
